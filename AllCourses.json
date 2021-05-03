@@ -1,0 +1,2015 @@
+{
+    "allCourses": [
+        {
+            "id": "70",
+            "title": "Teaches Comedy",
+            "num_chapters": 32,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/G5mPpiFQaJVdh7JBq88MTcVx",
+            "instructor": {
+                "name": "Judd Apatow"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "64",
+            "title": "Teaches Cooking",
+            "num_chapters": 16,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/Vgp9EwwG155dAvPfgxosuxjL",
+            "instructor": {
+                "name": "Wolfgang Puck"
+            },
+            "categories": [
+                {
+                    "id": "1",
+                    "name": "Food"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "title": "Teaches Electronic Music Production",
+            "num_chapters": 23,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/sUbdK1ujZckbKagVzYv1dvMR",
+            "instructor": {
+                "name": "deadmau5"
+            },
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Music"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "78",
+            "title": "Teaches Cooking II: Restaurant Recipes at Home",
+            "num_chapters": 15,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/49CcywhJPtUtcGirr5bXqPA6",
+            "instructor": {
+                "name": "Gordon Ramsay"
+            },
+            "categories": [
+                {
+                    "id": "1",
+                    "name": "Food"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "title": "Teaches Tennis",
+            "num_chapters": 10,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/Mf8TVn874cVYzgEwXiEvYysw",
+            "instructor": {
+                "name": "Serena Williams"
+            },
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Sports & Gaming"
+                }
+            ]
+        },
+        {
+            "id": "57",
+            "title": "Teaches Writing",
+            "num_chapters": 24,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/PR7VNUotVoCX4SHUa14AQ8vE",
+            "instructor": {
+                "name": "Judy Blume"
+            },
+            "categories": [
+                {
+                    "id": "7",
+                    "name": "Writing"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "title": "Teaches Writing",
+            "num_chapters": 22,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/2KWs1PMzYWc7pzcgF9qneYWh",
+            "instructor": {
+                "name": "James Patterson"
+            },
+            "categories": [
+                {
+                    "id": "7",
+                    "name": "Writing"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "72",
+            "title": "Teaches Independent Filmmaking",
+            "num_chapters": 19,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/UWrxDVHKmGdsZYEoL29hJEi5",
+            "instructor": {
+                "name": "Spike Lee"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "title": "Teaches Singing",
+            "num_chapters": 23,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/BFZDF9bwjJqxAVL9GMBmKzSM",
+            "instructor": {
+                "name": "Christina Aguilera"
+            },
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Music"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "title": "Teaches Filmmaking",
+            "num_chapters": 26,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/yjE1vrNPByFu17k6wqLBcojB",
+            "instructor": {
+                "name": "Werner Herzog"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "56",
+            "title": "Teaches Filmmaking",
+            "num_chapters": 30,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/6X851ZQF1DLmM8J9TAKyBU6T",
+            "instructor": {
+                "name": "Martin Scorsese"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "title": "Teaches Screenwriting",
+            "num_chapters": 35,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/qwA8dtj2THHBXpZWxa1y471Y",
+            "instructor": {
+                "name": "Aaron Sorkin"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                },
+                {
+                    "id": "7",
+                    "name": "Writing"
+                }
+            ]
+        },
+        {
+            "id": "17",
+            "title": "Teaches Design and Architecture",
+            "num_chapters": 17,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/TaGYpkmnL9UPyfT4y3vJYwMv",
+            "instructor": {
+                "name": "Frank Gehry"
+            },
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Design & Style"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Teaches The Art Of Performance",
+            "num_chapters": 16,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/1ZXHxuVpeRxRta3CBZiU1RYL",
+            "instructor": {
+                "name": "Usher"
+            },
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Music"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "60",
+            "title": "Teaches Fashion Design",
+            "num_chapters": 18,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/DASEhHcDb54yUGkA6xjJqv9Q",
+            "instructor": {
+                "name": "Marc Jacobs"
+            },
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Design & Style"
+                },
+                {
+                    "id": "5",
+                    "name": "Business"
+                }
+            ]
+        },
+        {
+            "id": "73",
+            "title": "Teaches Writing for Young Audiences",
+            "num_chapters": 28,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/ZS3sHYR3N8UzW9CaDuPDWXbR",
+            "instructor": {
+                "name": "R.L. Stine"
+            },
+            "categories": [
+                {
+                    "id": "7",
+                    "name": "Writing"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "71",
+            "title": "Teaches Space Exploration",
+            "num_chapters": 29,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/DT8LR9Zxv21hjGX82r1vBBT5",
+            "instructor": {
+                "name": "Chris Hadfield"
+            },
+            "categories": [
+                {
+                    "id": "8",
+                    "name": "Science & Tech"
+                }
+            ]
+        },
+        {
+            "id": "69",
+            "title": "Teaches Writing",
+            "num_chapters": 24,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/kf6W7BVJs6bsvZo3v72a9rsb",
+            "instructor": {
+                "name": "Malcolm Gladwell"
+            },
+            "categories": [
+                {
+                    "id": "7",
+                    "name": "Writing"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "86",
+            "title": "Teaches Independent Filmmaking",
+            "num_chapters": 17,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/8acY8bXad2PNq5SQTmtaxGPj",
+            "instructor": {
+                "name": "Mira Nair"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "74",
+            "title": "Teaches Poker",
+            "num_chapters": 38,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/7FgYKs9oKS8cQqrxhxUKwmG9",
+            "instructor": {
+                "name": "Daniel Negreanu"
+            },
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Sports & Gaming"
+                }
+            ]
+        },
+        {
+            "id": "109",
+            "title": "Teaches Creativity and Leadership",
+            "num_chapters": 12,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/QU1XM8iQwV8n1upfwXejg7Vf",
+            "instructor": {
+                "name": "Anna Wintour"
+            },
+            "categories": [
+                {
+                    "id": "5",
+                    "name": "Business"
+                },
+                {
+                    "id": "2",
+                    "name": "Design & Style"
+                }
+            ]
+        },
+        {
+            "id": "66",
+            "title": "Teaches Cooking Techniques I: Vegetables, Pasta, and Eggs",
+            "num_chapters": 36,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/saKzQ88LeKorpRCS8wFxDj3a",
+            "instructor": {
+                "name": "Thomas Keller"
+            },
+            "categories": [
+                {
+                    "id": "1",
+                    "name": "Food"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "54",
+            "title": "Teaches Chess",
+            "num_chapters": 29,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/aT8DMnbnL6ubqBqKsG32vNSD",
+            "instructor": {
+                "name": "Garry Kasparov"
+            },
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Sports & Gaming"
+                }
+            ]
+        },
+        {
+            "id": "92",
+            "title": "Teaches the Art and Soul of Guitar",
+            "num_chapters": 16,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/7vVtCmkkjAJhwgBa8a4tECZL",
+            "instructor": {
+                "name": "Carlos Santana"
+            },
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Music"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "52",
+            "title": "Teaches Building a Fashion Brand",
+            "num_chapters": 17,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/Eh5SaVdf6goHLSytze1CNLaS",
+            "instructor": {
+                "name": "Diane von Furstenberg"
+            },
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Design & Style"
+                },
+                {
+                    "id": "5",
+                    "name": "Business"
+                }
+            ]
+        },
+        {
+            "id": "53",
+            "title": "Teaches Conservation",
+            "num_chapters": 29,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/fCDFHeDiSfqrCfqcpDCgjbY8",
+            "instructor": {
+                "name": "Dr. Jane Goodall"
+            },
+            "categories": [
+                {
+                    "id": "8",
+                    "name": "Science & Tech"
+                },
+                {
+                    "id": "11",
+                    "name": "Community & Government"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "58",
+            "title": "Teaches Acting",
+            "num_chapters": 21,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/vCu7tsEsWj1yBUripFYwnsbd",
+            "instructor": {
+                "name": "Samuel L. Jackson"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "77",
+            "title": "Teaches Documentary Filmmaking",
+            "num_chapters": 26,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/NnvEn5VzSYEBX2U8UcyNeip8",
+            "instructor": {
+                "name": "Ken Burns"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "76",
+            "title": "Teaches Creative Writing",
+            "num_chapters": 23,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/xnTH1BryYinNpbJGi8N8QWXW",
+            "instructor": {
+                "name": "Margaret Atwood"
+            },
+            "categories": [
+                {
+                    "id": "7",
+                    "name": "Writing"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "63",
+            "title": "Teaches Shooting, Ball-Handling, and Scoring",
+            "num_chapters": 17,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/5MyX2o5hTXW7bbWW9rzDbv4Y",
+            "instructor": {
+                "name": "Stephen Curry"
+            },
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Sports & Gaming"
+                }
+            ]
+        },
+        {
+            "id": "79",
+            "title": "Teaches Electric Guitar",
+            "num_chapters": 26,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/UNo2dgk3AXgTyCWk2c2HCy9z",
+            "instructor": {
+                "name": "Tom Morello"
+            },
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Music"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "112",
+            "title": "Teaches Self-Made Entrepreneurship",
+            "num_chapters": 14,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/XK42an8Tp6SchEUUHwuSKKnE",
+            "instructor": {
+                "name": "Sara Blakely"
+            },
+            "categories": [
+                {
+                    "id": "5",
+                    "name": "Business"
+                }
+            ]
+        },
+        {
+            "id": "103",
+            "title": "Teaches Poker Strategy",
+            "num_chapters": 12,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/sKN2Z3wBWd3iHFkWqd5gNhqV",
+            "instructor": {
+                "name": "Phil Ivey"
+            },
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Sports & Gaming"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "title": "Teaches Photography",
+            "num_chapters": 15,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/okUYHB1zgWMPAwhsKn55FBFa",
+            "instructor": {
+                "name": "Annie Leibovitz"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                },
+                {
+                    "id": "2",
+                    "name": "Design & Style"
+                }
+            ]
+        },
+        {
+            "id": "97",
+            "title": "Teaches the Art of Storytelling",
+            "num_chapters": 19,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/RT8c36q1CSMQhG6EezVb7MKC",
+            "instructor": {
+                "name": "Neil Gaiman"
+            },
+            "categories": [
+                {
+                    "id": "7",
+                    "name": "Writing"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "111",
+            "title": "Teaches Music for Film",
+            "num_chapters": 21,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/A3vbfkSUGMuCYfHT9dEVvKk1",
+            "instructor": {
+                "name": "Danny Elfman"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                },
+                {
+                    "id": "4",
+                    "name": "Music"
+                }
+            ]
+        },
+        {
+            "id": "149",
+            "title": "Teaches Storytelling and Humor",
+            "num_chapters": 14,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/23m4B9fhvKh1u1gcVs1V2NKn",
+            "instructor": {
+                "name": "David Sedaris"
+            },
+            "categories": [
+                {
+                    "id": "7",
+                    "name": "Writing"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "148",
+            "title": "Teaches Ballet Technique and Artistry",
+            "num_chapters": 17,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/WvRSox9MAsQeajKYVo6J6pJC",
+            "instructor": {
+                "name": "Misty Copeland"
+            },
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Sports & Gaming"
+                }
+            ]
+        },
+        {
+            "id": "147",
+            "title": "Teaches Makeup and Beauty",
+            "num_chapters": 19,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/jeFiLRmEgTHch18JEoowCBkQ",
+            "instructor": {
+                "name": "Bobbi Brown"
+            },
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Design & Style"
+                },
+                {
+                    "id": "5",
+                    "name": "Business"
+                }
+            ]
+        },
+        {
+            "id": "186",
+            "title": "Teaches Self-Expression and Authenticity",
+            "num_chapters": 16,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/spKSjcAnp7aRNQtAyQMJq1oJ",
+            "instructor": {
+                "name": "RuPaul"
+            },
+            "categories": [
+                {
+                    "id": "12",
+                    "name": "Wellness"
+                },
+                {
+                    "id": "2",
+                    "name": "Design & Style"
+                }
+            ]
+        },
+        {
+            "id": "153",
+            "title": "Teach Advertising and Creativity",
+            "num_chapters": 18,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/zKa9mmvYzSGGmeEpnARuqoF8",
+            "instructor": {
+                "name": "Jeff Goodby & Rich Silverstein"
+            },
+            "categories": [
+                {
+                    "id": "5",
+                    "name": "Business"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "191",
+            "title": "Teaches Skateboarding",
+            "num_chapters": 16,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/AWDR8D4CfFZ1zgPP69NQHCtt",
+            "instructor": {
+                "name": "Tony Hawk"
+            },
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Sports & Gaming"
+                }
+            ]
+        },
+        {
+            "id": "189",
+            "title": "Teaches Effective and Authentic Communication",
+            "num_chapters": 11,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/ZzdFWYfoRBkakATMtTtSaK39",
+            "instructor": {
+                "name": "Robin Roberts"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                },
+                {
+                    "id": "5",
+                    "name": "Business"
+                }
+            ]
+        },
+        {
+            "id": "190",
+            "title": "Teaches Gardening",
+            "num_chapters": 10,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/ZyZbvJ2woHUsJAaD3Z1GsfRZ",
+            "instructor": {
+                "name": "Ron Finley"
+            },
+            "categories": [
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                },
+                {
+                    "id": "1",
+                    "name": "Food"
+                },
+                {
+                    "id": "11",
+                    "name": "Community & Government"
+                }
+            ]
+        },
+        {
+            "id": "196",
+            "title": "Teaches Creativity and Songwriting",
+            "num_chapters": 16,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/dboNku7V9D26MqUjxRuZhUKf",
+            "instructor": {
+                "name": "St. Vincent"
+            },
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Music"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "195",
+            "title": "Teaches Style for Everyone",
+            "num_chapters": 12,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/dvTi7NsWrQ2Xm877V5Gqhx5D",
+            "instructor": {
+                "name": "Tan France"
+            },
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Design & Style"
+                }
+            ]
+        },
+        {
+            "id": "201",
+            "title": "Teaches Songwriting and Producing",
+            "num_chapters": 19,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/ndTdptGhhxdD26USReDMx4yy",
+            "instructor": {
+                "name": "Alicia Keys"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                },
+                {
+                    "id": "4",
+                    "name": "Music"
+                }
+            ]
+        },
+        {
+            "id": "200",
+            "title": "Teaches Sex and Communication",
+            "num_chapters": 7,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/eiM5zdYgvmmLnocHeRU5S7Wv",
+            "instructor": {
+                "name": "Emily Morse"
+            },
+            "categories": [
+                {
+                    "id": "12",
+                    "name": "Wellness"
+                }
+            ]
+        },
+        {
+            "id": "199",
+            "title": "Teaches Creativity in Choreography",
+            "num_chapters": 16,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/dqpzMSoSbk4HTRWnoZEahqXz",
+            "instructor": {
+                "name": "Parris Goebel"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "206",
+            "title": "Teaches Voice Acting",
+            "num_chapters": 14,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/Mku8ft4gQzSMe5vX2fHwn8eC",
+            "instructor": {
+                "name": "Nancy Cartwright"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                },
+                {
+                    "id": "5",
+                    "name": "Business"
+                }
+            ]
+        },
+        {
+            "id": "205",
+            "title": "Teaches Art and Creativity",
+            "num_chapters": 13,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/NVTHup3wAb2GqiGAgdzvaNK8",
+            "instructor": {
+                "name": "Jeff Koons"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "212",
+            "title": "Teaches Writing for Social Change",
+            "num_chapters": 20,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/gbs5Wq5QTCkSWiSWGA25EVHq",
+            "instructor": {
+                "name": "Roxane Gay"
+            },
+            "categories": [
+                {
+                    "id": "7",
+                    "name": "Writing"
+                }
+            ]
+        },
+        {
+            "id": "211",
+            "title": "Teaches Mindfulness and Meditation",
+            "num_chapters": 20,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/GPLKEr3cMXH65JAdPZ5HUc48",
+            "instructor": {
+                "name": "Jon Kabat-Zinn"
+            },
+            "categories": [
+                {
+                    "id": "12",
+                    "name": "Wellness"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "210",
+            "title": "Teaches Fitness and Wellness Fundamentals",
+            "num_chapters": 12,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/2V6yDjAhcyeLH3q5xXo52UW2",
+            "instructor": {
+                "name": "Joe Holder"
+            },
+            "categories": [
+                {
+                    "id": "12",
+                    "name": "Wellness"
+                }
+            ]
+        },
+        {
+            "id": "105",
+            "title": "Teaches Modern Italian Cooking",
+            "num_chapters": 14,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/kJ9764E6TxpzFas5FZK3L8Mp",
+            "instructor": {
+                "name": "Massimo Bottura"
+            },
+            "categories": [
+                {
+                    "id": "1",
+                    "name": "Food"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "216",
+            "title": "Teaches Yoga Foundations",
+            "num_chapters": 10,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/2YXBSEqKNRGB5i8pesmPr1bc",
+            "instructor": {
+                "name": "Donna Farhi"
+            },
+            "categories": [
+                {
+                    "id": "12",
+                    "name": "Wellness"
+                }
+            ]
+        },
+        {
+            "id": "16",
+            "title": "Teaches Writing for Television",
+            "num_chapters": 30,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/E3iDLtyHFKijYGnhGxby3Puc",
+            "instructor": {
+                "name": "Shonda Rhimes"
+            },
+            "categories": [
+                {
+                    "id": "7",
+                    "name": "Writing"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "215",
+            "title": "Teaches Fiction, Memory, and Imagination",
+            "num_chapters": 14,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/T4Vkj8PFimwnY8yep3QCV6ce",
+            "instructor": {
+                "name": "Amy Tan"
+            },
+            "categories": [
+                {
+                    "id": "7",
+                    "name": "Writing"
+                }
+            ]
+        },
+        {
+            "id": "214",
+            "title": "Teaches Modern Japanese Cooking",
+            "num_chapters": 18,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/zASicX3fyipvUtrJjdrei97x",
+            "instructor": {
+                "name": "Niki Nakayama"
+            },
+            "categories": [
+                {
+                    "id": "1",
+                    "name": "Food"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "213",
+            "title": "Teaches Music Curation and DJing",
+            "num_chapters": 13,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/5g3hmhR1tMrTXHhxyU9ksy8F",
+            "instructor": {
+                "name": "Questlove"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                },
+                {
+                    "id": "4",
+                    "name": "Music"
+                }
+            ]
+        },
+        {
+            "id": "208",
+            "title": "Teaches Creating Outside the Lines",
+            "num_chapters": 14,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/rYbGKhXKFexp6hamuSq2N6Ui",
+            "instructor": {
+                "name": "Issa Rae"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                },
+                {
+                    "id": "7",
+                    "name": "Writing"
+                }
+            ]
+        },
+        {
+            "id": "207",
+            "title": "Teaches the Science of Better Sleep",
+            "num_chapters": 15,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/4NjPnU7YAQPgQ6mj17KyXe1u",
+            "instructor": {
+                "name": "Matthew Walker"
+            },
+            "categories": [
+                {
+                    "id": "12",
+                    "name": "Wellness"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                },
+                {
+                    "id": "8",
+                    "name": "Science & Tech"
+                }
+            ]
+        },
+        {
+            "id": "204",
+            "title": "Teaches Storytelling and Writing",
+            "num_chapters": 19,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/ukXU6fJbH3YYUL9PLhS65izS",
+            "instructor": {
+                "name": "Salman Rushdie"
+            },
+            "categories": [
+                {
+                    "id": "7",
+                    "name": "Writing"
+                }
+            ]
+        },
+        {
+            "id": "203",
+            "title": "Teaches Bread Baking",
+            "num_chapters": 17,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/XFBsX8J4qQv8swPHDUFYa7K1",
+            "instructor": {
+                "name": "Apollonia Poilâne"
+            },
+            "categories": [
+                {
+                    "id": "1",
+                    "name": "Food"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "202",
+            "title": "Teaches Fiction and Storytelling",
+            "num_chapters": 13,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/3p8epD4MUL5ogtrbLcEvncws",
+            "instructor": {
+                "name": "Walter Mosley"
+            },
+            "categories": [
+                {
+                    "id": "7",
+                    "name": "Writing"
+                }
+            ]
+        },
+        {
+            "id": "198",
+            "title": "Teaches Sales and Persuasion",
+            "num_chapters": 16,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/A3LUvkf9xyrUqfCTpzjwwYGA",
+            "instructor": {
+                "name": "Daniel Pink"
+            },
+            "categories": [
+                {
+                    "id": "5",
+                    "name": "Business"
+                }
+            ]
+        },
+        {
+            "id": "197",
+            "title": "Teaches Modern Middle Eastern Cooking",
+            "num_chapters": 26,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/zNkxHhLYCuaNToi1ySgaEjEV",
+            "instructor": {
+                "name": "Yotam Ottolenghi"
+            },
+            "categories": [
+                {
+                    "id": "1",
+                    "name": "Food"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "194",
+            "title": "Teaches ʻUkulele",
+            "num_chapters": 20,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/MvdqXfKFSiHW1mHjLFprJ6kj",
+            "instructor": {
+                "name": "Jake Shimabukuro"
+            },
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Music"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "193",
+            "title": "Teaches Dog Training",
+            "num_chapters": 15,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/ojiunFo32r7SicUbauRFENbF",
+            "instructor": {
+                "name": "Brandon McMillan"
+            },
+            "categories": [
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "192",
+            "title": "Teaches Drumming and Percussion ",
+            "num_chapters": 15,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/LiQEppnZtc3GmZys39BUzKbv",
+            "instructor": {
+                "name": "Sheila E."
+            },
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Music"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "188",
+            "title": "Teaches Interior Design",
+            "num_chapters": 17,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/Zq1Ehis6s4ELqhj5pvwK2AUs",
+            "instructor": {
+                "name": "Kelly Wearstler"
+            },
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Design & Style"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "187",
+            "title": "Teach Mixology",
+            "num_chapters": 17,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/2efBsdjxYynwE4oQo4DojWnH",
+            "instructor": {
+                "name": "Lynnette Marrero & Ryan Chetiyawardana"
+            },
+            "categories": [
+                {
+                    "id": "1",
+                    "name": "Food"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "152",
+            "title": "Teaches Mexican Cooking",
+            "num_chapters": 13,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/usnpt9VhgaLgs1VBqkigUdRu",
+            "instructor": {
+                "name": "Gabriela Cámara"
+            },
+            "categories": [
+                {
+                    "id": "1",
+                    "name": "Food"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "151",
+            "title": "Teaches Scientific Thinking and Communication",
+            "num_chapters": 13,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/HCG7GG5Y9SCNMg6hg7ZCch1s",
+            "instructor": {
+                "name": "Neil deGrasse Tyson"
+            },
+            "categories": [
+                {
+                    "id": "8",
+                    "name": "Science & Tech"
+                },
+                {
+                    "id": "5",
+                    "name": "Business"
+                }
+            ]
+        },
+        {
+            "id": "150",
+            "title": "Teaches the Art of Negotiation",
+            "num_chapters": 18,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/vbJRsAcG6Diwqz5BNhirFeug",
+            "instructor": {
+                "name": "Chris Voss"
+            },
+            "categories": [
+                {
+                    "id": "5",
+                    "name": "Business"
+                }
+            ]
+        },
+        {
+            "id": "146",
+            "title": "Teaches U.S. Presidential History and Leadership",
+            "num_chapters": 15,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/a46Yy3s4R8U8WeaChmDVMngr",
+            "instructor": {
+                "name": "Doris Kearns Goodwin"
+            },
+            "categories": [
+                {
+                    "id": "5",
+                    "name": "Business"
+                },
+                {
+                    "id": "11",
+                    "name": "Community & Government"
+                }
+            ]
+        },
+        {
+            "id": "98",
+            "title": "Teaches Producing and Beatmaking",
+            "num_chapters": 15,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/rSWFth4hjweC3V2proFGFJ5H",
+            "instructor": {
+                "name": "Timbaland"
+            },
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Music"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "75",
+            "title": "Teaches Acting",
+            "num_chapters": 20,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/xfiK6268VXZZP5PG7mdX9Mt3",
+            "instructor": {
+                "name": "Natalie Portman"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "102",
+            "title": "Teaches Texas-Style BBQ",
+            "num_chapters": 16,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/WY5oq9Ev26WJBMvTscChBaR4",
+            "instructor": {
+                "name": "Aaron Franklin"
+            },
+            "categories": [
+                {
+                    "id": "1",
+                    "name": "Food"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "145",
+            "title": "Teaches Business Strategy and Leadership",
+            "num_chapters": 13,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/LKfGJqfrkHQtxK3WrQeUZvip",
+            "instructor": {
+                "name": "Bob Iger"
+            },
+            "categories": [
+                {
+                    "id": "5",
+                    "name": "Business"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "107",
+            "title": "Teaches the Art of the Short Story",
+            "num_chapters": 14,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/5FsS4sWENS2V3n1WEG1h4EU1",
+            "instructor": {
+                "name": "Joyce Carol Oates"
+            },
+            "categories": [
+                {
+                    "id": "7",
+                    "name": "Writing"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "110",
+            "title": "Teaches Cooking Techniques III: Seafood, Sous Vide, and Desserts",
+            "num_chapters": 17,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/iN6dNb1kgzyzRyhnhB5W3WNL",
+            "instructor": {
+                "name": "Thomas Keller"
+            },
+            "categories": [
+                {
+                    "id": "1",
+                    "name": "Food"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "95",
+            "title": "Teaches Filmmaking",
+            "num_chapters": 18,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/MK4zvnBjiLELoM5bPv14RX5p",
+            "instructor": {
+                "name": "Jodie Foster"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "104",
+            "title": "Teaches Violin",
+            "num_chapters": 19,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/H1n21LyQ7n9yiBgF4YxkAgVJ",
+            "instructor": {
+                "name": "Itzhak Perlman"
+            },
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Music"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "101",
+            "title": "Teach the Art of Magic",
+            "num_chapters": 17,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/cHWmF3SMipfzdvYuhpCRnRtb",
+            "instructor": {
+                "name": "Penn & Teller"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "94",
+            "title": "Teaches Game Design and Theory",
+            "num_chapters": 21,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/k3tT2RdE63bAc4o2vNN6hNzJ",
+            "instructor": {
+                "name": "Will Wright"
+            },
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Sports & Gaming"
+                },
+                {
+                    "id": "2",
+                    "name": "Design & Style"
+                }
+            ]
+        },
+        {
+            "id": "82",
+            "title": "Teaches Writing Thrillers",
+            "num_chapters": 19,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/62CEbJyEMP28BN2yUdWLhQBe",
+            "instructor": {
+                "name": "Dan Brown"
+            },
+            "categories": [
+                {
+                    "id": "7",
+                    "name": "Writing"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "99",
+            "title": "Teaches Creativity and Film",
+            "num_chapters": 13,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/PNGRiqitFwJJHXV6KUUeCCaR",
+            "instructor": {
+                "name": "David Lynch"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "62",
+            "title": "Teaches Acting",
+            "num_chapters": 28,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/aj7oA7tbFRRrK638b4pYRat3",
+            "instructor": {
+                "name": "Helen Mirren"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "55",
+            "title": "Teaches Jazz",
+            "num_chapters": 25,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/kTwMHg94hCet1MxJEEKkNxNg",
+            "instructor": {
+                "name": "Herbie Hancock"
+            },
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Music"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "61",
+            "title": "Teaches Directing",
+            "num_chapters": 32,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/cF7xjvW3H2YDAzo9LpYTAX3M",
+            "instructor": {
+                "name": "Ron Howard"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "title": "Teaches Country Music",
+            "num_chapters": 21,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/scPSb39dCrsvMQSq5SaBCMQC",
+            "instructor": {
+                "name": "Reba McEntire"
+            },
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Music"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "65",
+            "title": "Teaches the Art of Home Cooking",
+            "num_chapters": 17,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/6jqb47q1hPgFS6siownBMjGT",
+            "instructor": {
+                "name": "Alice Waters"
+            },
+            "categories": [
+                {
+                    "id": "1",
+                    "name": "Food"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "18",
+            "title": "Teaches Comedy",
+            "num_chapters": 25,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/fAphPqs8XZw7KuZXp2VfMxRz",
+            "instructor": {
+                "name": "Steve Martin"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "title": "Teaches Film Scoring",
+            "num_chapters": 31,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/mESQbPZhRgdzH3Y3Qc3RYmef",
+            "instructor": {
+                "name": "Hans Zimmer"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                },
+                {
+                    "id": "4",
+                    "name": "Music"
+                }
+            ]
+        },
+        {
+            "id": "100",
+            "title": "Teaches Reading and Writing Poetry",
+            "num_chapters": 20,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/YgDtndjNwF3iiTjjqAL1GM32",
+            "instructor": {
+                "name": "Billy Collins"
+            },
+            "categories": [
+                {
+                    "id": "7",
+                    "name": "Writing"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "90",
+            "title": "Teaches Adventure Photography",
+            "num_chapters": 20,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/DN4qRb3Ec8MZpFgrmq74BhTp",
+            "instructor": {
+                "name": "Jimmy Chin"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                },
+                {
+                    "id": "2",
+                    "name": "Design & Style"
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "title": "Teaches Cooking I",
+            "num_chapters": 20,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/nsPMA7e1cVScj2rfyy6Ky8n6",
+            "instructor": {
+                "name": "Gordon Ramsay"
+            },
+            "categories": [
+                {
+                    "id": "1",
+                    "name": "Food"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "91",
+            "title": "Teaches Wine Appreciation",
+            "num_chapters": 11,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/Bg2XyZUqL5fjpmUMkX61AAuV",
+            "instructor": {
+                "name": "James Suckling"
+            },
+            "categories": [
+                {
+                    "id": "1",
+                    "name": "Food"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "67",
+            "title": "Teaches Dance Music",
+            "num_chapters": 33,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/sL75LBTmPvER8ZHcZbQFnrcc",
+            "instructor": {
+                "name": "Armin van Buuren"
+            },
+            "categories": [
+                {
+                    "id": "4",
+                    "name": "Music"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "106",
+            "title": "Teaches Mystery and Thriller Writing",
+            "num_chapters": 18,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/vFEUwMDDMpUYYDTnZo9wTYXZ",
+            "instructor": {
+                "name": "David Baldacci"
+            },
+            "categories": [
+                {
+                    "id": "7",
+                    "name": "Writing"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "108",
+            "title": "Teaches Gymnastics Fundamentals",
+            "num_chapters": 17,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/PsYKZe63jkMkR5iUqJT4KdJ4",
+            "instructor": {
+                "name": "Simone Biles"
+            },
+            "categories": [
+                {
+                    "id": "6",
+                    "name": "Sports & Gaming"
+                }
+            ]
+        },
+        {
+            "id": "81",
+            "title": "Teaches Economics and Society",
+            "num_chapters": 22,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/jMpAUN1rJBbZDPi29We4jFmm",
+            "instructor": {
+                "name": "Paul Krugman"
+            },
+            "categories": [
+                {
+                    "id": "5",
+                    "name": "Business"
+                },
+                {
+                    "id": "11",
+                    "name": "Community & Government"
+                }
+            ]
+        },
+        {
+            "id": "84",
+            "title": "Teaches Cooking Techniques II: Meats, Stocks, and Sauces",
+            "num_chapters": 22,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/om9mzeSV7XQ14C6oFVeYmztj",
+            "instructor": {
+                "name": "Thomas Keller"
+            },
+            "categories": [
+                {
+                    "id": "1",
+                    "name": "Food"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "85",
+            "title": "Teaches French Pastry Fundamentals",
+            "num_chapters": 17,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/qHZ8N4HGoTkjQHWsjTn1J8C4",
+            "instructor": {
+                "name": "Dominique Ansel"
+            },
+            "categories": [
+                {
+                    "id": "1",
+                    "name": "Food"
+                },
+                {
+                    "id": "10",
+                    "name": "Home & Lifestyle"
+                }
+            ]
+        },
+        {
+            "id": "80",
+            "title": "Teach Campaign Strategy and Messaging",
+            "num_chapters": 24,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/eFdioWjT83oEpJRJiotxu2tu",
+            "instructor": {
+                "name": "David Axelrod and Karl Rove"
+            },
+            "categories": [
+                {
+                    "id": "5",
+                    "name": "Business"
+                },
+                {
+                    "id": "11",
+                    "name": "Community & Government"
+                }
+            ]
+        },
+        {
+            "id": "19",
+            "title": "Teaches Dramatic Writing",
+            "num_chapters": 26,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/bqCWbc5X6Yv6AC24eNBEPF95",
+            "instructor": {
+                "name": "David Mamet"
+            },
+            "categories": [
+                {
+                    "id": "7",
+                    "name": "Writing"
+                },
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "59",
+            "title": "Teaches Investigative Journalism",
+            "num_chapters": 24,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/K7ge2kmp9HNStAkWTZSUudDM",
+            "instructor": {
+                "name": "Bob Woodward"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                },
+                {
+                    "id": "5",
+                    "name": "Business"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "title": "Teaches Acting",
+            "num_chapters": 24,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/8jndY4RkoxNNf6HmbZ7Dn6hi",
+            "instructor": {
+                "name": "Dustin Hoffman"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "title": "Teaches Acting",
+            "num_chapters": 28,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/F3KR11HxMkTTC7eUnCp6Mtyq",
+            "instructor": {
+                "name": "Kevin Spacey"
+            },
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Arts & Entertainment"
+                }
+            ]
+        },
+        {
+            "id": "96",
+            "title": "Business Leadership",
+            "num_chapters": 13,
+            "native_portrait_mobile_image_url": "https://www.masterclass.com/course-images/attachments/7JAdsGWsdXDXQzBD54gvZ6K3",
+            "instructor": {
+                "name": "Howard Schultz"
+            },
+            "categories": [
+                {
+                    "id": "5",
+                    "name": "Business"
+                }
+            ]
+        }
+    ],
+    "allCategories": [
+        {
+            "id": "1",
+            "name": "Food"
+        },
+        {
+            "id": "3",
+            "name": "Arts & Entertainment"
+        },
+        {
+            "id": "4",
+            "name": "Music"
+        },
+        {
+            "id": "7",
+            "name": "Writing"
+        },
+        {
+            "id": "6",
+            "name": "Sports & Gaming"
+        },
+        {
+            "id": "2",
+            "name": "Design & Style"
+        },
+        {
+            "id": "5",
+            "name": "Business"
+        },
+        {
+            "id": "8",
+            "name": "Science & Tech"
+        },
+        {
+            "id": "10",
+            "name": "Home & Lifestyle"
+        },
+        {
+            "id": "11",
+            "name": "Community & Government"
+        },
+        {
+            "id": "12",
+            "name": "Wellness"
+        }
+    ]
+}
